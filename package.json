@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/delwar2016/nodejs-example/issues"
   },
-  "homepage": "https://github.com/delwar2016/nodejs-example#readme"
+  "homepage": "https://github.com/delwar2016/nodejs-example#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
